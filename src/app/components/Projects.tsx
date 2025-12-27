@@ -13,7 +13,7 @@ export function Projects() {
       image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlZHVjYXRpb258ZW58MXx8fHwxNzY1NTkyMzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       tags: ["TypeScript", "Node.js", "SQL", "Stripe"],
       github: "https://github.com",
-      live: "https://example.com",
+      live: "https://projectwhitecoat.com/",
       icon: "📖",
       gradient: "from-blue-600 to-cyan-600",
     },
