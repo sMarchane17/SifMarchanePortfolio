@@ -47,7 +47,7 @@ export function Header() {
               onClick={() => scrollToSection("skills")}
               className="text-gray-300 hover:text-blue-400 transition-colors"
             >
-              Compétences
+              Compétence
             </motion.button>
             <motion.button
               whileHover={{ scale: 1.1, color: "#60a5fa" }}
@@ -55,7 +55,7 @@ export function Header() {
               onClick={() => scrollToSection("projects")}
               className="text-gray-300 hover:text-blue-400 transition-colors"
             >
-              Projects
+              Projet
             </motion.button>
             <motion.button
               whileHover={{ scale: 1.1, color: "#60a5fa" }}
